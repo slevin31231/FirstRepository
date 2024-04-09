@@ -1,0 +1,3 @@
+Hello from File-4 !!!
+Testing git rebase -i
+yes-yes-yes
