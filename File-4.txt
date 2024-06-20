@@ -1,3 +1,1 @@
-Hello from File-4 !!!
-Testing git rebase -i
-yes-yes-yes
+File with code for some new feature in add_feature breanch
